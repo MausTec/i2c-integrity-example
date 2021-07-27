@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "u8g2lib.h": "c",
+        "freertos.h": "c"
+    }
+}
